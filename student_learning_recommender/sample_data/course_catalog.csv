@@ -1,0 +1,36 @@
+course_id,course_title,category,tags,level,format,duration_hours,rating,description
+C001,Python for Beginners,Programming,"python, coding, basics",Beginner,Video,12,4.7,"Learn Python from scratch with hands-on exercises covering variables, loops, functions and small projects."
+C002,Data Structures in Python,Programming,"python, algorithms, data structures",Intermediate,Interactive,20,4.6,"Master lists, trees, graphs and complexity analysis through interactive coding challenges."
+C003,Machine Learning Foundations,Data Science,"machine learning, python, statistics",Intermediate,Video,30,4.8,"Understand regression, classification and model evaluation with practical notebooks."
+C004,Deep Learning with Neural Networks,Data Science,"deep learning, neural networks, ai",Advanced,Video,40,4.7,Build and train neural networks for images and text using modern frameworks.
+C005,Statistics Made Simple,Mathematics,"statistics, probability, data",Beginner,Article,10,4.3,"A friendly written guide to descriptive statistics, probability and inference."
+C006,Calculus Practice Quizzes,Mathematics,"calculus, math, practice",Intermediate,Quiz,8,4.2,Hundreds of graded calculus questions with step-by-step solutions.
+C007,Linear Algebra Essentials,Mathematics,"linear algebra, vectors, matrices",Intermediate,Video,18,4.6,"Vectors, matrices and transformations explained visually for data and engineering students."
+C008,Web Development Bootcamp,Programming,"html, css, javascript, web",Beginner,Video,45,4.5,"Build responsive websites and web apps with HTML, CSS and JavaScript."
+C009,React Interactive Labs,Programming,"react, javascript, frontend",Intermediate,Interactive,22,4.4,"Practice components, state and hooks in live coding labs."
+C010,SQL for Data Analysis,Data Science,"sql, databases, analytics",Beginner,Interactive,14,4.6,"Query, join and aggregate data using real business datasets."
+C011,Data Visualization with Python,Data Science,"visualization, python, charts",Intermediate,Article,9,4.3,Create clear charts with matplotlib and seaborn and tell stories with data.
+C012,Digital Marketing Fundamentals,Business,"marketing, social media, seo",Beginner,Video,16,4.2,"Understand SEO, social media and email campaigns for small businesses."
+C013,Startup Finance Basics,Business,"finance, startups, accounting",Beginner,Article,7,4.1,"Budgeting, cash flow and fundraising explained in plain language."
+C014,Product Management Case Studies,Business,"product management, strategy",Advanced,Article,15,4.5,Analyse real product launches and practise prioritisation frameworks.
+C015,Entrepreneurship Quiz Challenge,Business,"entrepreneurship, business, quiz",Beginner,Quiz,5,4.0,Test your business knowledge with timed quizzes and leaderboards.
+C016,Graphic Design Principles,Arts,"design, typography, colour",Beginner,Video,11,4.6,"Layout, typography and colour theory for beginners."
+C017,UI/UX Design Studio,Arts,"ux, ui design, figma",Intermediate,Interactive,24,4.7,Design and prototype mobile apps in Figma with guided studio briefs.
+C018,Digital Illustration Workshop,Arts,"drawing, illustration, digital art",Beginner,Video,13,4.4,Step-by-step digital painting and illustration techniques.
+C019,Music Theory Basics,Arts,"music, theory, composition",Beginner,Interactive,12,4.3,"Learn scales, chords and rhythm with an interactive keyboard."
+C020,Creative Writing Essentials,English,"writing, storytelling, creative",Beginner,Article,9,4.2,"Craft characters, plot and voice with short writing prompts."
+C021,Academic English for Exams,English,"grammar, vocabulary, exam preparation",Intermediate,Quiz,14,4.1,Boost grammar and vocabulary with exam-style practice tests.
+C022,Public Speaking Masterclass,English,"speaking, communication, confidence",Intermediate,Video,10,4.5,Deliver confident presentations with proven structure and delivery techniques.
+C023,World History Timelines,History,"history, world history, timelines",Beginner,Article,12,4.0,Major civilisations and turning points on easy-to-follow timelines.
+C024,Ancient Civilisations Explorer,History,"ancient history, archaeology",Intermediate,Interactive,15,4.3,"Explore Egypt, Greece and Rome through interactive maps and artefacts."
+C025,Modern History Quiz Pack,History,"modern history, quiz, revision",Intermediate,Quiz,6,4.0,Revision quizzes covering the 20th century.
+C026,Physics Concepts Visualised,Science,"physics, mechanics, energy",Beginner,Video,17,4.6,"Animated explanations of forces, motion and energy."
+C027,Chemistry Lab Simulations,Science,"chemistry, experiments, reactions",Intermediate,Interactive,19,4.5,Run virtual experiments safely and see reactions happen.
+C028,Biology Fundamentals,Science,"biology, cells, genetics",Beginner,Article,14,4.2,"Cells, genetics and ecosystems with clear diagrams."
+C029,Environmental Science Today,Science,"environment, climate, sustainability",Beginner,Article,8,4.3,"Climate change, biodiversity and sustainable solutions."
+C030,Football Analytics,Sports,"football, analytics, data",Intermediate,Article,9,4.1,Use data and statistics to understand tactics and performance in football.
+C031,Sports Nutrition Guide,Sports,"nutrition, fitness, health",Beginner,Article,6,4.2,Fuel training and recovery with evidence-based nutrition.
+C032,Cricket Skills Video Series,Sports,"cricket, batting, bowling",Beginner,Video,10,4.4,"Technique drills for batting, bowling and fielding."
+C033,Cybersecurity Essentials,Technology,"cybersecurity, networks, security",Beginner,Video,18,4.5,"Protect systems and data: passwords, networks and common attacks."
+C034,Cloud Computing Introduction,Technology,"cloud, aws, devops",Beginner,Video,16,4.4,"Core cloud concepts, storage, compute and deployment."
+C035,Robotics with Arduino,Technology,"robotics, arduino, electronics",Intermediate,Interactive,26,4.6,Build and program simple robots step by step.
